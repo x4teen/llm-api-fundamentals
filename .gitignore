@@ -137,7 +137,7 @@ celerybeat.pid
 # Environments
 .env
 .envrc
-.venv
+.llm-api-env
 env/
 venv/
 ENV/
